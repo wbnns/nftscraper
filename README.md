@@ -6,7 +6,7 @@ of Service (ToS) to make sure it's allowed.
 
 ## Acknowledgements
 
-This gem would not be possible without the work of **Zayne**. It is entirely
+This POC would not be possible without the work of **Zayne**. It is entirely
 based on code from one of his tutorials about how to [build a web scraper with
 Ruby](https://www.youtube.com/watch?v=b3CLEUBdWwQ).
 
