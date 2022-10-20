@@ -9,12 +9,15 @@ GEM
       mime-types-data (~> 3.2015)
     mime-types-data (3.2021.0225)
     multi_xml (0.6.0)
-    nokogiri (1.11.2-x86_64-darwin)
+    nokogiri (1.13.9-x86_64-darwin)
       racc (~> 1.4)
-    racc (1.5.2)
+    nokogiri (1.13.9-x86_64-linux)
+      racc (~> 1.4)
+    racc (1.6.0)
 
 PLATFORMS
   x86_64-darwin-20
+  x86_64-linux
 
 DEPENDENCIES
   byebug
